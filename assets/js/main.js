@@ -32,3 +32,12 @@ var swiper = new Swiper(".mySwiper", {
     }
 });
 
+var swiper = new Swiper(".mySwiper-1", {
+    effect: 'fade',
+    fadeEffect: { crossFade: true },
+    speed: 800,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+  });
