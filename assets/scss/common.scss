@@ -22,22 +22,37 @@
     --regular-font-weight: 400;
     --semibold-font-weight: 500;
     --bold-font-weight: 600;
+    --sec05-font-size: 1rem;
 }
 
-.p-l-65{
+.p-t-16 {
+    padding-top: 1rem;
+}
+
+.p-t-20 {
+    padding-top: 1.25rem;
+}
+
+.p-l-65 {
     padding-left: 4.0625rem;
 }
-.p-t-90{
+
+.p-t-90 {
     padding-top: 5.625rem;
 }
-.p-t-120{
+
+.p-t-120 {
     padding-top: 7.5rem;
 }
 
-.p-r-100{
+.p-t-110 {
+    padding-top: 6.875rem;
+}
+
+.p-r-100 {
     padding-right: 6.25rem;
 }
 
-.p-b-50{
+.p-b-50 {
     padding-bottom: 3.125rem;
 }
